@@ -1,0 +1,40 @@
+{
+    "shortcuts": [
+        {
+            "id": 0,
+            "label": "Button 1",
+            "action": "key_combo",
+            "value": "control+alt+t"
+        },
+        {
+            "id": 1,
+            "label": "Button 2",
+            "action": "key_combo",
+            "value": "alt+home"
+        },
+        {
+            "id": 2,
+            "label": "Button 3",
+            "action": "none",
+            "value": ""
+        },
+        {
+            "id": 3,
+            "label": "Button 4",
+            "action": "none",
+            "value": ""
+        },
+        {
+            "id": 4,
+            "label": "Button 5",
+            "action": "none",
+            "value": ""
+        },
+        {
+            "id": 5,
+            "label": "Button 6",
+            "action": "none",
+            "value": ""
+        }
+    ]
+}
